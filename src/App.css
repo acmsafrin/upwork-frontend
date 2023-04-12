@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.route-container {
+  width: 80%;
+  max-width: 800px;
+}
